@@ -13,8 +13,19 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="리소스 파일\20150718">
+      <UniqueIdentifier>{a8d9c97e-7602-42b3-8a59-e55fa7283ef8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="리소스 파일\20150711">
+      <UniqueIdentifier>{b05fdb19-8ca1-4138-a511-622490b1540d}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
-    <Text Include="20150711.txt" />
+    <Text Include="20150718.txt">
+      <Filter>리소스 파일\20150718</Filter>
+    </Text>
+    <Text Include="20150711.txt">
+      <Filter>리소스 파일\20150711</Filter>
+    </Text>
   </ItemGroup>
 </Project>
