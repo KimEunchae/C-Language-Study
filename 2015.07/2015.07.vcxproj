@@ -81,6 +81,9 @@
     <Text Include="20150711.txt" />
     <Text Include="20150718.txt" />
   </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="소스.cpp" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
