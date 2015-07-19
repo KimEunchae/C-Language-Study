@@ -13,24 +13,36 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
-    <Filter Include="리소스 파일\20150718">
-      <UniqueIdentifier>{a8d9c97e-7602-42b3-8a59-e55fa7283ef8}</UniqueIdentifier>
+    <Filter Include="소스 파일\20150719">
+      <UniqueIdentifier>{1f262444-d0ec-4d0c-bf42-35551da0f2e1}</UniqueIdentifier>
     </Filter>
-    <Filter Include="리소스 파일\20150711">
-      <UniqueIdentifier>{b05fdb19-8ca1-4138-a511-622490b1540d}</UniqueIdentifier>
+    <Filter Include="소스 파일\20150718">
+      <UniqueIdentifier>{475993bb-b8d2-4cf8-b210-93ca2480a1c6}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <Text Include="20150718.txt">
-      <Filter>리소스 파일\20150718</Filter>
-    </Text>
-    <Text Include="20150711.txt">
-      <Filter>리소스 파일\20150711</Filter>
+    <Text Include="과제.txt">
+      <Filter>소스 파일\20150719</Filter>
     </Text>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="소스.cpp">
-      <Filter>소스 파일</Filter>
+    <ClCompile Include="Study Code.cpp">
+      <Filter>소스 파일\20150718</Filter>
+    </ClCompile>
+    <ClCompile Include="고은환.cpp">
+      <Filter>소스 파일\20150719</Filter>
+    </ClCompile>
+    <ClCompile Include="김지희.cpp">
+      <Filter>소스 파일\20150719</Filter>
+    </ClCompile>
+    <ClCompile Include="박예리.cpp">
+      <Filter>소스 파일\20150719</Filter>
+    </ClCompile>
+    <ClCompile Include="이지아.cpp">
+      <Filter>소스 파일\20150719</Filter>
+    </ClCompile>
+    <ClCompile Include="이혜지.cpp">
+      <Filter>소스 파일\20150719</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

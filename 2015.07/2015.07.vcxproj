@@ -78,11 +78,15 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <Text Include="20150711.txt" />
-    <Text Include="20150718.txt" />
+    <ClCompile Include="Study Code.cpp" />
+    <ClCompile Include="고은환.cpp" />
+    <ClCompile Include="김지희.cpp" />
+    <ClCompile Include="박예리.cpp" />
+    <ClCompile Include="이지아.cpp" />
+    <ClCompile Include="이혜지.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="소스.cpp" />
+    <Text Include="과제.txt" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
