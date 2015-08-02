@@ -24,6 +24,3 @@ int main(){
 		printf("\n");
 	}
 }
-
-
-qwerqwerqwerqwerqwerqwerqwer
