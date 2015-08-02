@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Source Files\20150801">
+      <UniqueIdentifier>{b2d5189d-f82b-4197-b811-45f2d47b163a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\20150802">
+      <UniqueIdentifier>{56deda40-00d2-4f93-b8f4-3b05d3ace241}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\2015.07\20150801_김지희.cpp">
+      <Filter>Source Files\20150801</Filter>
+    </ClCompile>
+    <ClCompile Include="..\2015.07\20150801_최수연.cpp">
+      <Filter>Source Files\20150801</Filter>
+    </ClCompile>
+    <ClCompile Include="..\2015.07\20150801_이지아.cpp">
+      <Filter>Source Files\20150801</Filter>
+    </ClCompile>
+    <ClCompile Include="..\2015.07\20150801_이혜지.cpp">
+      <Filter>Source Files\20150801</Filter>
+    </ClCompile>
+    <ClCompile Include="..\2015.07\20150802_StudyCode.cpp">
+      <Filter>Source Files\20150801</Filter>
+    </ClCompile>
+    <ClCompile Include="..\2015.07\20150802_김지희.cpp">
+      <Filter>Source Files\20150802</Filter>
+    </ClCompile>
+    <ClCompile Include="..\2015.07\20150802_이지아.cpp">
+      <Filter>Source Files\20150802</Filter>
+    </ClCompile>
+    <ClCompile Include="..\2015.07\20150802_최수연.cpp">
+      <Filter>Source Files\20150802</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="..\2015.07\20150801_최수연Data.txt">
+      <Filter>Source Files\20150801</Filter>
+    </Text>
+    <Text Include="..\2015.07\20150801_이지아Data.txt">
+      <Filter>Source Files\20150801</Filter>
+    </Text>
+    <Text Include="..\..\..\Desktop\C Test\ConsoleApplication1\ConsoleApplication1\20150802_이지아Data.txt">
+      <Filter>Source Files\20150802</Filter>
+    </Text>
+    <Text Include="..\..\..\Desktop\C Test\ConsoleApplication1\ConsoleApplication1\20150802_최수연Data.txt">
+      <Filter>Source Files\20150802</Filter>
+    </Text>
+  </ItemGroup>
+</Project>
