@@ -19,6 +19,12 @@
     <Filter Include="Source Files\20150802">
       <UniqueIdentifier>{56deda40-00d2-4f93-b8f4-3b05d3ace241}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\20150808">
+      <UniqueIdentifier>{289c919f-84cf-4345-b57a-ab422551177c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\20150809">
+      <UniqueIdentifier>{415466b7-909d-416d-b862-bbd468e2b81e}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="..\2015.07\20150801_김지희.cpp">
@@ -44,6 +50,36 @@
     </ClCompile>
     <ClCompile Include="..\2015.07\20150802_최수연.cpp">
       <Filter>Source Files\20150802</Filter>
+    </ClCompile>
+    <ClCompile Include="20150808_김은채.cpp">
+      <Filter>Source Files\20150808</Filter>
+    </ClCompile>
+    <ClCompile Include="20150808_김지희.cpp">
+      <Filter>Source Files\20150808</Filter>
+    </ClCompile>
+    <ClCompile Include="20150808_최수연.cpp">
+      <Filter>Source Files\20150808</Filter>
+    </ClCompile>
+    <ClCompile Include="20150808_김은채_함수.cpp">
+      <Filter>Source Files\20150808</Filter>
+    </ClCompile>
+    <ClCompile Include="20150808_이지아.cpp">
+      <Filter>Source Files\20150808</Filter>
+    </ClCompile>
+    <ClCompile Include="20150809_이지아.cpp">
+      <Filter>Source Files\20150809</Filter>
+    </ClCompile>
+    <ClCompile Include="20150809_김지희.cpp">
+      <Filter>Source Files\20150809</Filter>
+    </ClCompile>
+    <ClCompile Include="20150809_이주원.cpp">
+      <Filter>Source Files\20150809</Filter>
+    </ClCompile>
+    <ClCompile Include="20150809_최수연.cpp">
+      <Filter>Source Files\20150809</Filter>
+    </ClCompile>
+    <ClCompile Include="20150809_김은채.cpp">
+      <Filter>Source Files\20150809</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>

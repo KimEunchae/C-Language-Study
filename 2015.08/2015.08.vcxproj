@@ -95,12 +95,28 @@
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">true</ExcludedFromBuild>
     </ClCompile>
     <ClCompile Include="..\2015.07\20150802_StudyCode.cpp">
-      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">false</ExcludedFromBuild>
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">false</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="..\2015.07\20150802_김지희.cpp" />
-    <ClCompile Include="..\2015.07\20150802_이지아.cpp" />
-    <ClCompile Include="..\2015.07\20150802_최수연.cpp" />
+    <ClCompile Include="..\2015.07\20150802_김지희.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="..\2015.07\20150802_이지아.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="..\2015.07\20150802_최수연.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="20150808_김은채.cpp" />
+    <ClCompile Include="20150808_김지희.cpp" />
+    <ClCompile Include="20150808_최수연.cpp" />
+    <ClCompile Include="20150808_김은채_함수.cpp" />
+    <ClCompile Include="20150808_이지아.cpp" />
+    <ClCompile Include="20150809_이지아.cpp" />
+    <ClCompile Include="20150809_김지희.cpp" />
+    <ClCompile Include="20150809_이주원.cpp" />
+    <ClCompile Include="20150809_최수연.cpp" />
+    <ClCompile Include="20150809_김은채.cpp" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="..\..\..\Desktop\C Test\ConsoleApplication1\ConsoleApplication1\20150802_이지아Data.txt" />
